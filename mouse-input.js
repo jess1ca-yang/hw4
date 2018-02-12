@@ -1,3 +1,5 @@
+//the frequencies get higher with every mouse click
+
 var freqA = 174;
 var freqS = 196;
 var freqD = 220;
