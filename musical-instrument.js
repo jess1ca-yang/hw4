@@ -13,7 +13,7 @@ function preload() {
   fSound = loadSound('assets/piston-2.mp3');
   gSound = loadSound('assets/prism-2.mp3');
   hSound = loadSound('assets/dotted-spiral.mp3');
-  clickSound = loadSound('squiggle/dotted-spiral.mp3');
+  clickSound = loadSound('assets/squiggle.mp3');
 }
 
 
