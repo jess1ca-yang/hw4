@@ -1,6 +1,8 @@
 //A "musical instrument" inspired by notes on a music staff. 
 //Play around with the 'A', 'S', 'D', 'F', 'G', & 'H' keys and the mouse to see what funky colors and sounds you make.
+//mp3 files needed are in the repository 
 //click to start! (note: the volume gets a little loud) 
+
 
 var mySound;
 
